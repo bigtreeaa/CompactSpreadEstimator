@@ -1,4 +1,4 @@
-# CompactSpreadEstimator
+# Compact Spread Estimator
 Implementing CSE counting by using Python.
 - Actual counting/CSE counting plotting
 - ARE graph plotting
